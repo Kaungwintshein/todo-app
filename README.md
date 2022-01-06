@@ -1,6 +1,6 @@
-# Todo-App using hooks(useSatte, useEffect, useRef)\
+# Todo-App using hooks(useState, useEffect, useRef)
 
-you can create, edit, update, delete in this app.After done your task you can mark the complete tasks.
+## you can create, edit, update, delete in this app.After done your task you can mark the complete tasks.
 
 # Getting Started with Create React App
 
